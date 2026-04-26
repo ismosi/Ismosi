@@ -2,12 +2,12 @@
 
 「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·START· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·o.O「+-xo」
 
-🍀🍀🍀🍀🍀🍀
+🍀🍀🍀🍀🍀🍀  
 Frontend engineer. Product thinker. Human-first builder.  
 前端工程师。产品思考者。以人为本的建造者。
 
 
-🍀🍀🍀🍀🍀🍀
+🍀🍀🍀🍀🍀🍀  
 Curious about where AI meets product — across frontend, backend, ops, or fields I haven't named yet.  
 好奇 AI 与产品的交汇处——横跨前端、后端、运维，或尚未命名的领域。
 
@@ -21,7 +21,7 @@ Always: Working steadily. Shipping with care.
 始终：稳步前行。带着关怀交付。
 
 
-🍀🍀🍀🍀🍀🍀
+🍀🍀🍀🍀🍀🍀  
 I build products through interfaces, and interfaces through code.  
 我通过界面建造产品，通过代码建造界面。
 
@@ -35,7 +35,7 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 协作为技艺——清晰沟通，诚实反馈，共同拥有
 
 
-🍀🍀🍀🍀🍀🍀
+🍀🍀🍀🍀🍀🍀  
 🐽 My career (and life) partners ：  
 🐽 我的职业（和生活）伙伴：
 
@@ -52,7 +52,7 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 📖 开放：前端 · AI · 产品工程 · 珍视技艺的团队
 
 
-🍀🍀🍀🍀🍀🍀
+🍀🍀🍀🍀🍀🍀  
 ✉️ Reach me: ismosi021@gmail.com — I read everything.  
 ✉️ 联系我：ismosi021@gmail.com — 我阅读一切。
 
