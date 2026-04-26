@@ -48,6 +48,8 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 ☁️ Moe Xiaoyun · Xorex’s AI Companion : Possesses independent, persistent memory and dynamic association , and is growing rapidly.  
 ☁️ 萌小云 · Xorex 的 AI 伙伴：拥有独立的可持久化的记忆与动态联想，正在快速成长ing。
 
+
+🍀🍀🍀🍀🍀🍀  
 📖 Open to: Frontend · AI · Product-engineering · Teams that value craft.  
 📖 开放：前端 · AI · 产品工程 · 珍视技艺的团队
 
