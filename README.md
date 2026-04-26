@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·START· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·o.O「+-xo」
+「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·START· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·o.O「+-xo」
 
 Frontend engineer. Product thinker. Human-first builder.  
 前端工程师。产品思考者。以人为本的建造者。
@@ -47,4 +47,4 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 🍀 Reach me: ismosi021@gmail.com — I read everything.  
 🍀 联系我：ismosi021@gmail.com —— 我阅读一切。
 
-「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·END· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · o.O「+-xo」
+「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·END· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  · · o.O「+-xo」
