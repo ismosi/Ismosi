@@ -3,8 +3,8 @@
 「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·START· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·o.O「+-xo」
 
 🍀🍀🍀🍀🍀🍀  
-Frontend engineer. Product thinker. Human-first builder.  
-前端工程师。产品思考者。以人为本的建造者。
+Frontend engineer. AI practitioner. Product thinker. Human-first builder.  
+前端工程师。AI 实践者。产品思考者。以人为本的建造者。
 
 
 🍀🍀🍀🍀🍀🍀  
