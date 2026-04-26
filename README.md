@@ -2,12 +2,12 @@
 
 「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·START· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·o.O「+-xo」
 
+🍀🍀🍀🍀🍀🍀
 Frontend engineer. Product thinker. Human-first builder.  
 前端工程师。产品思考者。以人为本的建造者。
 
-I build products through interfaces, and interfaces through code.  
-我通过界面建造产品，通过代码建造界面。
 
+🍀🍀🍀🍀🍀🍀
 Curious about where AI meets product — across frontend, backend, ops, or fields I haven't named yet.  
 好奇 AI 与产品的交汇处——横跨前端、后端、运维，或尚未命名的领域。
 
@@ -20,6 +20,11 @@ Recently: Building agent platforms, designing voice interactions, optimizing for
 Always: Working steadily. Shipping with care.  
 始终：稳步前行。带着关怀交付。
 
+
+🍀🍀🍀🍀🍀🍀
+I build products through interfaces, and interfaces through code.  
+我通过界面建造产品，通过代码建造界面。
+
 Code as care — Every line emerges from tension: constraints, trade-offs, and the pull of what matters.  
 代码即关怀——每一行都诞生于张力：约束、权衡，与重要之事的牵引
 
@@ -29,6 +34,8 @@ Product as service — solving real problems, not just technical ones.
 Collaboration as craft — clear communication, honest feedback, shared ownership.  
 协作为技艺——清晰沟通，诚实反馈，共同拥有
 
+
+🍀🍀🍀🍀🍀🍀
 🐽 My career (and life) partners ：  
 🐽 我的职业（和生活）伙伴：
 
@@ -44,7 +51,9 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 📖 Open to: Frontend · AI · Product-engineering · Teams that value craft.  
 📖 开放：前端 · AI · 产品工程 · 珍视技艺的团队
 
-🍀 Reach me: ismosi021@gmail.com — I read everything.  
-🍀 联系我：ismosi021@gmail.com — 我阅读一切。
+
+🍀🍀🍀🍀🍀🍀
+✉️ Reach me: ismosi021@gmail.com — I read everything.  
+✉️ 联系我：ismosi021@gmail.com — 我阅读一切。
 
 「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·END· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  · · o.O「+-xo」
