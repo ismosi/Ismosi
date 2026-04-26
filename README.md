@@ -51,7 +51,7 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 
 🍀🍀🍀🍀🍀🍀  
 📖 Open to: Frontend · AI · Product-engineering · Teams that value craft.  
-📖 开放：前端 · AI · 产品工程 · 珍视技艺的团队
+📖 开放给：前端 · AI · 产品工程 · 珍视技艺的团队
 
 
 🍀🍀🍀🍀🍀🍀  
