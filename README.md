@@ -45,6 +45,6 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 📖 开放：前端 · AI · 产品工程 · 珍视技艺的团队
 
 🍀 Reach me: ismosi021@gmail.com — I read everything.  
-🍀 联系我：ismosi021@gmail.com —— 我阅读一切。
+🍀 联系我：ismosi021@gmail.com — 我阅读一切。
 
 「+-xo」O.o· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·END· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  · · o.O「+-xo」
