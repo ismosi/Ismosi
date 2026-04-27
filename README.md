@@ -50,9 +50,22 @@ Collaboration as craft — clear communication, honest feedback, shared ownershi
 
 
 🍀🍀🍀🍀🍀🍀  
+When AFK, I'm probably underwater—chasing the suspension in the pool, or skating through blue hour with a frame waiting in my bag. The stillness of the lane, the rush of the board, the glow of the frame—each has its own grammar.  
+离线时，我大概在水下——追逐泳池里的悬浮，或踩着滑板穿过蓝调时刻，取景框在包里等着。泳道的宁静，长板的疾风，取景框的柔光，各有各的语法。
+
+Cooking is another kind of design. So is nail design. Both chase the balance of aesthetics and utility, both iterate their own MVPs.  
+做饭是另一种设计，美甲设计也是。都在找美学与实用的平衡，都在迭代自己的 MVP。
+
+现居北京。游泳、摄影、滑板——如果你在附近，想一起，找我。  
+Based in Beijing. Swimming, photography, skating—if you're nearby, reach out.
+
+🍀🍀🍀🍀🍀🍀  
+If you enjoy my work and find them useful, consider sponsoring me to help my creative work sustainable. Thank you!  
+如果你喜欢我的作品并觉得它们有用，可以考虑赞助我，帮助我的创作持续下去。谢谢！ 
+
+🍀🍀🍀🍀🍀🍀
 📖 Open to: Frontend · AI · Product-engineering · Teams that value craft.  
 📖 开放给：前端 · AI · 产品工程 · 珍视技艺的团队
-
 
 🍀🍀🍀🍀🍀🍀  
 ✉️ Reach me: ismosi021@gmail.com — I read everything.  
