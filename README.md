@@ -1,2 +1,3 @@
+## [技术周刊](https://ismosi.github.io/ismosi-weekly/)
 ## Hi there 👋 产品思考者。AI 实践者。技术实践者。以人为本的建造者。
 
